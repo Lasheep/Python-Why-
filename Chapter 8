@@ -1,0 +1,14 @@
+Module : random,OS
+         import random  ：
+                random.randint(1,10) #生成随机数
+         import os ：
+                os.getcwd() #获得当前目录
+                os.chdir()  #改变当前工作目录 
+      
+   存储 import random :
+      .getcwd()
+      
+      
+文件
+OS
+函数
